@@ -12,7 +12,7 @@ I was the main developer at [NetherGames Network](https://github.com/NetherGames
 - Visual Basic
 - C++
 
-### My GitHub stats
+### My GitHub statitics
 ![](https://github-readme-stats.vercel.app/api?username=matcracker&theme=vue-dark&count_private=true&include_all_commits=true)
 
 ### Other contacts
